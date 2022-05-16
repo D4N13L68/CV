@@ -1,0 +1,18 @@
+body {
+  background-color: #73777B;
+}
+
+hr {
+  border-color: #15133C;
+  border-style: dotted none none;
+  border-width: 5px;
+  width: 90%;
+}
+h1{
+  color: #EC994B;
+  font-family: baskerville;
+}
+h3{
+  color: #EC994B;
+  font-family: times new roman;
+}
